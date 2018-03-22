@@ -1,0 +1,198 @@
+body{
+    background: #f3f2f2;
+}
+.logo{
+    width:250px;
+}
+.mainHeader{
+    background: #f5f5f5;
+    padding-left: 32px;
+    border-bottom: 1px solid #d6d6d6;
+}
+.btn-primary{
+    margin-top: 32px;
+}
+.center-bg{
+    background: url(../images/bg-cropped.jpg) no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 0 30px;
+    height: 448px;
+    background-position: 1px -26px;
+}
+
+.main-header{
+    font-family: 'Raleway', sans-serif;
+    margin-top: 88px;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.main-caption{
+    font-family: 'Raleway', sans-serif;
+    text-shadow: 1px 1px 0px #909090;
+}
+.btn-main{
+    font-size: 26px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px #9a9292;
+}
+
+.title {
+    margin: 50px auto 20px;
+    text-align: center;
+    border-left: 5px solid #566d11;
+    font-family: Raleway;
+    width: 65%;
+    border-right: 5px solid #566d11;
+    margin: 35px auto;
+    background: #ececec;
+    padding: 12px;
+    font-weight: bold;
+    font-size: 29px;
+    color: #0099f8;
+    margin-bottom: 45px;
+}
+
+.highlights{
+    display: block;
+    margin: 15px auto;
+    width: 90px;
+}
+.fix-margin{
+    margin: 9px auto;
+}
+.fix-margin2{
+    margin-top: 27px;
+}
+
+.highlights-title, .highlights-caption{
+    text-align: center;
+    font-family: Raleway;
+}
+col-6{
+    margin: 5px 0px;
+}
+.sub-content{    
+    background: #35740f;
+    margin-top: 33px;
+    border-top: 1px solid #9a9797;
+}
+.sub{
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+    font-family: Raleway;
+    color: #f3f3f3;
+    padding-bottom: 26px;
+}
+.see-more{
+    margin-top: 20px;
+    font-size: 2rem;
+}
+.prod-img{
+    display: block;
+    margin: auto;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px 0px #c7c7c7;
+}
+
+.price{
+    position: relative;
+}
+.price{
+    position: relative;
+    width: 90px;
+    background: #ef220d;
+    border-radius: 10px;
+    text-align: center;
+    padding: 8px 4px 8px;
+    font-size: 20px;
+    transform: rotate(7deg);
+    color: white;
+    transform: translate;
+    font-weight: bold;
+    top: -263px;
+    right: -144px;
+}
+
+.product-name{
+    font-family: Raleway;
+    text-align: center;
+    padding: 20px 0px 0px;
+}
+
+.farm-name{
+    font-family: Raleway;
+    text-align: center;
+    padding: 0px;
+}
+.bg-light {
+    background-color: #00abc9 !important;
+}
+.btn-srch{
+    background: #009ab5;
+    border: 2px white solid;
+    color: white;
+}
+.nav-link{
+    color: white !important;
+}
+
+.investment-icon{
+    width: 100%;
+    border: 2px solid lightgrey;
+    height: 100%;
+    padding: 2px 0px 2px;
+    border-radius: 10px;
+}
+.investments{
+    margin-top: 40px;
+    background: #35adc6;;
+    padding: 16px 4px 16px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px #bec5c5;
+}
+.inv-title{
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px grey;
+}
+
+.inv-caption{
+    font-size: 16px;
+    font-style: italic;
+    margin-top: 4px;
+}
+.inv-button{
+    width: 125px;
+    font-size: 25px;
+    border: 0px;
+    border-radius: 6px;
+    padding: 5px 2px 6px;
+    margin-bottom: 9px;
+}
+.academy-banner{
+    margin-top: 35px;
+    font-size: 28px;
+    text-align: left;
+}
+.academy-courses{
+    text-align: center;
+    margin-top: 25px;
+    color: #35adc6;
+    font-size: 44px;
+}
+@media only screen and (min-width:600px){
+    .center-bg{
+            background: url("../images/hero1.jpg") no-repeat;
+            background-size: cover;
+            height: 670px;
+    }
+    .main-header{
+        font-size: 4.5rem;
+    }
+    .main-caption{
+        font-size: 2em;
+    }
+}

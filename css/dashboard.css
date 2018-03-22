@@ -1,0 +1,52 @@
+
+.panel{
+    height: 820px;
+    margin-top: 20px;
+}
+
+.high{
+    height: 100px;
+}
+
+.higha{
+    height: 100px;
+}
+.pics{
+    display:block;
+    margin: auto;
+    height: 30px;
+    width: 50px;
+}
+h5{
+    margin-top: 5px;
+}
+
+h1{
+    margin-top: -5px;
+ 
+}
+.pic{
+    margin-top: 10px;
+    height: 60px;
+    width: 60px;
+}
+.temp{
+    margin-top: 3px;
+    font-size: 5em;
+    font-weight: bold;
+}
+
+.line{
+    text-align: left;
+}
+.low{
+    margin-top: 20px;
+}
+
+.humidity{
+    margin-top: 10px;
+}
+
+.colour{
+    color: rgb(30, 78, 141);
+}
